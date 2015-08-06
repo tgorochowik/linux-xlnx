@@ -47,6 +47,7 @@ obj-$(CONFIG_VIDEO_RENESAS_VSP1)	+= vsp1/
 obj-y	+= omap/
 
 obj-$(CONFIG_VIDEO_XILINX)		+= xilinx/
+obj-$(CONFIG_VIDEO_SNIFFER)		+= video-sniffer/
 
 obj-$(CONFIG_VIDEO_AM437X_VPFE)		+= am437x/
 
