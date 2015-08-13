@@ -13,6 +13,7 @@
 
 #include <drm/drmP.h>
 #include <drm/drm_crtc_helper.h>
+#include <drm/drm_plane_helper.h>
 #include <drm/drm_gem_cma_helper.h>
 
 #include "axi_dispctrl_crtc.h"
